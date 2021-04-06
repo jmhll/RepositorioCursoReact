@@ -1,6 +1,5 @@
 function App() {
-  // Tema2 return <Articulo />
-  return <Bitcoin></Bitcoin>
+   return <Articulo />
     
 }
   

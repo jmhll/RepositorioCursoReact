@@ -1,13 +1,12 @@
-class Articulo extends Component{
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
 
-  render() {
-      return (
-      <div>
-          <PilasConvencionales />
-          <BateriasLitio />
-      </div>
-      )
-  }
-}
+ReactDOM.render(
+<React.StrictMode>
+<App />
+</React.StrictMode>,
+document.getElementById('root')
+);
 
-export default Articulo;
