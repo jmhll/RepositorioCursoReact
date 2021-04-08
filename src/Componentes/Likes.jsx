@@ -11,7 +11,7 @@ class Likes extends Component {
     }
 
     subirLikes = () => {
-        this.contadorLikes = 1
+        this.setState({contadorLikes:1})
       }
     
     render() {

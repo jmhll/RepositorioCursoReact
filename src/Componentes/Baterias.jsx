@@ -8,7 +8,7 @@ function BateriasLitio() {
             Gracias a las nuevas tecnologias que afectan a las baterías, 
             la autonomía de los coches eléctricos está aumentando a pasos agigantados.
             </p>
-            <autonomia km = {400} ></autonomia> 
+            <Autonomia km = {400} ></Autonomia> 
             <br />
         </div>
     );

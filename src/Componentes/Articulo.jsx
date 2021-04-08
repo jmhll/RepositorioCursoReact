@@ -1,3 +1,4 @@
+import React, { Component } from 'react';
 import PilasConvencionales from './Pilas';
 import BateriasLitio   from './Baterias';
 import Hidrogeno from './Hidrogeno'

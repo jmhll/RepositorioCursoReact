@@ -1,6 +1,8 @@
+import Articulo from "./Componentes/Articulo";
+
+
 function App() {
-   return <Articulo />
-    
+       return <Articulo/>
 }
   
 export default App;
